@@ -1,10 +1,22 @@
--  Hi, I’m Divya
--  I’m interested in Programming 
--  I’m BCA student
-  
-  
+Hello! I'm Divya
 
-<!---
-divyarao03/divyarao03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a BCA (Bachelor of Computer Applications) student with a passion for coding and a drive to learn. I'm excited to share my projects and experiences with the GitHub community.
+
+About Me
+- Name: T Divya
+- Course: BCA (Bachelor of Computer Applications)
+- Interests: Programming, Web Development, Data Analysis, and Machine Learning
+- Goal: To become a proficient software developer and contribute to open-source projects
+
+Skills
+
+- Programming languages: Python, Java, JavaScript,Html,CSS,C,C++.
+- Development frameworks: Django.
+- Databases: MySQL, MongoDB.
+- Operating Systems: Windows, Linux.
+
+Feel free to reach out to me on:
+
+- GitHub: @divyarao03
+- Email: tdivya0305@gmail.com
+
