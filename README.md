@@ -2,7 +2,7 @@ Hello! I'm Divya
 
 I'm a BCA (Bachelor of Computer Applications) student with a passion for coding and a drive to learn. I'm excited to share my projects and experiences with the GitHub community.
 
-About Me
+<span style =" color: Red"> This red text <\span>About Me
 - Name: T Divya
 - Course: BCA (Bachelor of Computer Applications)
 - Interests: Programming, Web Development, Data Analysis, and Machine Learning
